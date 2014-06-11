@@ -1,9 +1,9 @@
 {
 	"name": "express-subdomain-handler",
 	"version": "0.0.1",
-	"author": "Wilson Page",
+	"author": "Sebastien Chartier",
 	"description": "A tiny module to handle subdomains nicely in Express",
-	"homepage": "http://github.com/WilsonPage/express-subdomain-handler",
+	"homepage": "http://github.com/schartier/express-subdomain-handler",
 	"engines": ["node >= 0.2.2"],
 	"main": "lib/esh"
 }
